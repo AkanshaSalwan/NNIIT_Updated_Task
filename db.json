@@ -1,0 +1,473 @@
+{
+  "slots": [
+    {
+      "id": "booked-1",
+      "day": "Monday",
+      "time": "9:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 1",
+        "subject": "Mathematics",
+        "bookingId": "b1"
+      }
+    },
+    {
+      "id": "booked-2",
+      "day": "Monday",
+      "time": "10:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 2",
+        "subject": "Physics",
+        "bookingId": "b2"
+      }
+    },
+    {
+      "id": "booked-3",
+      "day": "Tuesday",
+      "time": "11:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 3",
+        "subject": "Chemistry",
+        "bookingId": "b3"
+      }
+    },
+    {
+      "id": "booked-4",
+      "day": "Tuesday",
+      "time": "12:00 PM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 4",
+        "subject": "Biology",
+        "bookingId": "b4"
+      }
+    },
+    {
+      "id": "booked-5",
+      "day": "Wednesday",
+      "time": "1:00 PM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 5",
+        "subject": "English",
+        "bookingId": "b5"
+      }
+    },
+    {
+      "id": "booked-6",
+      "day": "Wednesday",
+      "time": "2:00 PM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 6",
+        "subject": "History",
+        "bookingId": "b6"
+      }
+    },
+    {
+      "id": "booked-7",
+      "day": "Thursday",
+      "time": "3:00 PM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 7",
+        "subject": "Computer Science",
+        "bookingId": "b7"
+      }
+    },
+    {
+      "id": "booked-8",
+      "day": "Thursday",
+      "time": "4:00 PM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 8",
+        "subject": "Economics",
+        "bookingId": "b8"
+      }
+    },
+    {
+      "id": "booked-9",
+      "day": "Friday",
+      "time": "9:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 9",
+        "subject": "Mathematics",
+        "bookingId": "b9"
+      }
+    },
+    {
+      "id": "booked-10",
+      "day": "Friday",
+      "time": "10:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Booked Student 10",
+        "subject": "Physics",
+        "bookingId": "b10"
+      }
+    },
+    {
+      "id": "unavailable-1",
+      "day": "Monday",
+      "time": "1:00 PM",
+      "isAvailable": false,
+      "booking": null
+    },
+    {
+      "id": "unavailable-2",
+      "day": "Tuesday",
+      "time": "2:00 PM",
+      "isAvailable": false,
+      "booking": null
+    },
+    {
+      "id": "unavailable-3",
+      "day": "Wednesday",
+      "time": "3:00 PM",
+      "isAvailable": false,
+      "booking": null
+    },
+    {
+      "id": "unavailable-4",
+      "day": "Thursday",
+      "time": "5:00 PM",
+      "isAvailable": false,
+      "booking": null
+    },
+    {
+      "id": "unavailable-5",
+      "day": "Friday",
+      "time": "11:00 AM",
+      "isAvailable": false,
+      "booking": null
+    },
+    {
+      "id": "available-1",
+      "day": "Monday",
+      "time": "11:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-2",
+      "day": "Monday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-3",
+      "day": "Monday",
+      "time": "2:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-4",
+      "day": "Monday",
+      "time": "3:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-5",
+      "day": "Monday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-6",
+      "day": "Monday",
+      "time": "5:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-7",
+      "day": "Monday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-8",
+      "day": "Tuesday",
+      "time": "9:00 AM",
+      "isAvailable": false,
+      "booking": {
+        "studentName": "Vinay",
+        "subject": "Physics",
+        "bookingId": "booking-1749785133971-0.581485226394677"
+      }
+    },
+    {
+      "id": "available-9",
+      "day": "Tuesday",
+      "time": "10:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-10",
+      "day": "Tuesday",
+      "time": "1:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-11",
+      "day": "Tuesday",
+      "time": "3:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-12",
+      "day": "Tuesday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-13",
+      "day": "Tuesday",
+      "time": "5:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-14",
+      "day": "Tuesday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-15",
+      "day": "Wednesday",
+      "time": "9:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-16",
+      "day": "Wednesday",
+      "time": "10:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-17",
+      "day": "Wednesday",
+      "time": "11:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-18",
+      "day": "Wednesday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-19",
+      "day": "Wednesday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-20",
+      "day": "Wednesday",
+      "time": "5:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-21",
+      "day": "Wednesday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-22",
+      "day": "Thursday",
+      "time": "9:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-23",
+      "day": "Thursday",
+      "time": "10:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-24",
+      "day": "Thursday",
+      "time": "11:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-25",
+      "day": "Thursday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-26",
+      "day": "Thursday",
+      "time": "1:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-27",
+      "day": "Thursday",
+      "time": "2:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-28",
+      "day": "Thursday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-29",
+      "day": "Friday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-30",
+      "day": "Friday",
+      "time": "1:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-31",
+      "day": "Friday",
+      "time": "2:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-32",
+      "day": "Friday",
+      "time": "3:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-33",
+      "day": "Friday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-34",
+      "day": "Friday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-35",
+      "day": "Saturday",
+      "time": "9:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-36",
+      "day": "Saturday",
+      "time": "10:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-37",
+      "day": "Saturday",
+      "time": "11:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-38",
+      "day": "Saturday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-39",
+      "day": "Saturday",
+      "time": "1:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-40",
+      "day": "Saturday",
+      "time": "2:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-41",
+      "day": "Saturday",
+      "time": "3:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-42",
+      "day": "Saturday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-43",
+      "day": "Saturday",
+      "time": "5:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-44",
+      "day": "Saturday",
+      "time": "6:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-45",
+      "day": "Sunday",
+      "time": "9:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-46",
+      "day": "Sunday",
+      "time": "10:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-47",
+      "day": "Sunday",
+      "time": "11:00 AM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-48",
+      "day": "Sunday",
+      "time": "12:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-49",
+      "day": "Sunday",
+      "time": "1:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-50",
+      "day": "Sunday",
+      "time": "2:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-51",
+      "day": "Sunday",
+      "time": "3:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-52",
+      "day": "Sunday",
+      "time": "4:00 PM",
+      "isAvailable": true
+    },
+    {
+      "id": "available-53",
+      "day": "Sunday",
+      "time": "5:00 PM",
+      "isAvailable": true
+    }
+  ],
+  "bookings": []
+}
